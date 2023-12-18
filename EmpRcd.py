@@ -37,6 +37,7 @@ class EmployeeManagementGUI:
             password="your_password",
             database="your_database_name"
         )
+        #hello this will return 
         return db_connection
 
     def add_employee(self):
